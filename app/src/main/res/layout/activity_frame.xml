@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.leesnriud.layoutlist.FrameActivity">
+
+    <FrameLayout
+        android:foreground="@mipmap/ic_launcher"
+        android:foregroundGravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:background="#FF2342"/>
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:background="#FFFF00"/>
+        <TextView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:background="#FFFFFF"/>
+    </FrameLayout>
+</android.support.constraint.ConstraintLayout>

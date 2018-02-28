@@ -16,6 +16,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".LinearActivity" />
+        <activity android:name=".RelativeActivity" />
+        <activity android:name=".TableActivity" />
+        <activity android:name=".FrameActivity" />
+        <activity android:name=".GridActivity" />
+        <activity android:name=".AbsolubeActivity"></activity>
     </application>
 
 </manifest>

@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">LayoutList</string>
+    <string name="linearlayout">LinearLayout</string>
+    <string name="relativelayout">RelativeLayout</string>
+    <string name="tablelayout">TableLayout</string>
+    <string name="framelayout">FrameLayout</string>
+    <string name="gridlayout">GridLayout</string>
+    <string name="absolutelayout">AbsoluteLayout</string>
+    <string name="orientation">Orientation</string>
 </resources>
