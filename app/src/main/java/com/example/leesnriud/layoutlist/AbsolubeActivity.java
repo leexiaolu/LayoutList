@@ -15,6 +15,7 @@ import android.os.Bundle;
  * android:layout_y 设置组件的Y坐标
  *
  * 绝对布局不常使用 作为了解
+ *
  */
 public class AbsolubeActivity extends AppCompatActivity {
 
